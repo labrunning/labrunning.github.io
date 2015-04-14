@@ -3,6 +3,7 @@ http://www.lukebrunning.co.uk/archive.html
 http://www.lukebrunning.co.uk/atom.xml
 http://www.lukebrunning.co.uk/categories.html
 http://www.lukebrunning.co.uk/pages/friday.html
+http://www.lukebrunning.co.uk/pages/garden.html
 http://www.lukebrunning.co.uk/index.html
 http://www.lukebrunning.co.uk/pages.html
 http://www.lukebrunning.co.uk/rss.xml
