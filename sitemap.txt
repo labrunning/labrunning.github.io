@@ -10,6 +10,7 @@ http://www.lukebrunning.co.uk/rss.xml
 http://www.lukebrunning.co.uk/sitemap.txt
 http://www.lukebrunning.co.uk/tags.html
 
+http://www.lukebrunning.co.uk/life/2015/06/10/garden-upgrade-live
 http://www.lukebrunning.co.uk/test/2015/04/06/hello-luke
 http://www.lukebrunning.co.uk/thoughts/2014/10/24/can-i-get-a-witness
 http://www.lukebrunning.co.uk/technology/2014/10/05/sunday-is-the-new-monday
