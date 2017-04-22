@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on Luke Brunning</title>
+    <link>http://www.lukebrunning.co.uk/categories/software/</link>
+    <description>Recent content in Software on Luke Brunning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lukebrunning.co.uk/categories/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your Tools are Not Toys</title>
+      <link>http://www.lukebrunning.co.uk/blog/2017-03-08-your-tools-are-not-toys/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2017-03-08-your-tools-are-not-toys/</guid>
+      <description>Unfortunately my beloved TextExpander has recently stopped working in ConEmu. Ironically this coincided with the update notes proudly declaring that expansion was now working in ConEmu! Those nice people at Smile are helping me get to the bottom of it, but in the mean time I decided to look around at the options in the console world in Windows. It wasn&amp;rsquo;t going to take long.
+I opened up the PowerShell ISE; I&amp;rsquo;ve never really used it, preferring Sublime Text (I&amp;rsquo;ve also been flirting with Visual Studio Code) but I grabbed a Solarized theme and thought it may be fun to the &amp;lsquo;Intellisense&amp;rsquo; available.</description>
+    </item>
+    
+  </channel>
+</rss>

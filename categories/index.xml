@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Luke Brunning</title>
+    <link>http://www.lukebrunning.co.uk/categories/</link>
+    <description>Recent content in Categories on Luke Brunning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.lukebrunning.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer service</title>
+      <link>http://www.lukebrunning.co.uk/categories/customer-service/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/customer-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Funny</title>
+      <link>http://www.lukebrunning.co.uk/categories/funny/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/funny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garden</title>
+      <link>http://www.lukebrunning.co.uk/categories/garden/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/garden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home improvement</title>
+      <link>http://www.lukebrunning.co.uk/categories/home-improvement/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/home-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>http://www.lukebrunning.co.uk/categories/music/</link>
+      <pubDate>Sun, 28 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://www.lukebrunning.co.uk/categories/software/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://www.lukebrunning.co.uk/categories/technology/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://www.lukebrunning.co.uk/categories/thoughts/</link>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

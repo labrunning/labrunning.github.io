@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer service on Luke Brunning</title>
+    <link>http://www.lukebrunning.co.uk/categories/customer-service/</link>
+    <description>Recent content in Customer service on Luke Brunning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lukebrunning.co.uk/categories/customer-service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Customer Loyalty</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-10-03-customer-loyalty/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-10-03-customer-loyalty/</guid>
+      <description>I got an email from BT who provide my phone and internet about renewing my contract. Now currently my phone isn&amp;apos;t even plugged in, but that&amp;apos;s another story, so I don&amp;apos;t really like having to pay line rental as it is but it seems to be perfectly legal for companies to bundle this in as a requirement. They were asking if I wanted to renew my contract with them, with what initially seemed a worse deal for the same price.</description>
+    </item>
+    
+  </channel>
+</rss>
