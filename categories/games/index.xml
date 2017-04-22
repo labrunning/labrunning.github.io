@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Luke Brunning</title>
+    <link>http://www.lukebrunning.co.uk/categories/games/</link>
+    <description>Recent content in Games on Luke Brunning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lukebrunning.co.uk/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elite Dangerous</title>
+      <link>http://www.lukebrunning.co.uk/blog/2017-04-22-elite-dangerous/</link>
+      <pubDate>Sat, 22 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2017-04-22-elite-dangerous/</guid>
+      <description>I&amp;rsquo;m tremendously excited by Elite Dangerous making an appearance on Playstation 4. I spent many happy hours as a child playing the original Elite on my Acorn Electron in the 80s. I can&amp;rsquo;t remember exactly what rank I managed to get up to but it certainly wasn&amp;rsquo;t Elite. The originality and advanced nature is a matter of record now but what really hooked me was that ever since seeing Star Wars at the age of four I had spent most of my formative years wishing to be whisked away into space on a spaceship.</description>
+    </item>
+    
+  </channel>
+</rss>
