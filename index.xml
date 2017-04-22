@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luke Brunning</title>
+    <link>http://www.lukebrunning.co.uk/</link>
+    <description>Recent content on Luke Brunning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lukebrunning.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.lukebrunning.co.uk/about/</link>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/about/</guid>
+      <description>Being a seasoned technologist as I am, I&amp;rsquo;ve been neglecting personal websites since 1995.
+Small hairy mammal who plays with computers for a living. Dad, gamer, drinker, lazy.</description>
+    </item>
+    
+    <item>
+      <title>Your Tools are Not Toys</title>
+      <link>http://www.lukebrunning.co.uk/blog/2017-03-08-your-tools-are-not-toys/</link>
+      <pubDate>Wed, 08 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2017-03-08-your-tools-are-not-toys/</guid>
+      <description>Unfortunately my beloved TextExpander has recently stopped working in ConEmu. Ironically this coincided with the update notes proudly declaring that expansion was now working in ConEmu! Those nice people at Smile are helping me get to the bottom of it, but in the mean time I decided to look around at the options in the console world in Windows. It wasn&amp;rsquo;t going to take long.
+I opened up the PowerShell ISE; I&amp;rsquo;ve never really used it, preferring Sublime Text (I&amp;rsquo;ve also been flirting with Visual Studio Code) but I grabbed a Solarized theme and thought it may be fun to the &amp;lsquo;Intellisense&amp;rsquo; available.</description>
+    </item>
+    
+    <item>
+      <title>Today’s Earworm</title>
+      <link>http://www.lukebrunning.co.uk/blog/2015-06-28-todays-earworm/</link>
+      <pubDate>Sun, 28 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2015-06-28-todays-earworm/</guid>
+      <description>Today&amp;rsquo;s earworm is brought to you by Fairport Convention;
+ </description>
+    </item>
+    
+    <item>
+      <title>Garden Upgrade LIVE</title>
+      <link>http://www.lukebrunning.co.uk/blog/2015-06-10-garden-upgrade-live/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2015-06-10-garden-upgrade-live/</guid>
+      <description>My garden project is now fully underway! After weeks of trying to find someone to actually work on this project I finally found just the right person. We decided it was best that I project manage the whole thing and he just supply labour as I wanted to specify most of the materials. This has worked out really well. He&amp;apos;s advised me when I needed it and come up with some good ideas of areas which I wasn&amp;apos;t sure about.</description>
+    </item>
+    
+    <item>
+      <title>Can I get a witness</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-10-24-can-i-get-a-witness/</link>
+      <pubDate>Fri, 24 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-10-24-can-i-get-a-witness/</guid>
+      <description>Waking up this morning, thinking about the difference between &amp;ldquo;Can I have&amp;rdquo; and &amp;ldquo;Can I get&amp;rdquo; I wondered whether the perceived Americanism of &amp;ldquo;Can I get&amp;rdquo; was actually ruder than &amp;ldquo;Can I have&amp;rdquo;. Looking at several sites only showed me the rich diversity of the English language and that there were just as many Americans who thought &amp;ldquo;Can I get&amp;rdquo; would be rude as there were those who thought it was perfectly fine.</description>
+    </item>
+    
+    <item>
+      <title>Sunday is the new Monday</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-10-05-sunday-is-the-new-monday/</link>
+      <pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-10-05-sunday-is-the-new-monday/</guid>
+      <description>Being an Englishman in New Technology, I&amp;rsquo;m rather used to changing regional settings. As a former serial Linux experimenter it almost became a reflex action I never even thought about. I was always puzzled by the notion of Sunday as the first day of the week, however as I sit here on a Sunday morning doing my GTD weekly review and looking at the week ahead in my calendar it suddenly occurred to me that if I set Sunday as the first day, then when I look at the weekly view in the calendar then I won&amp;rsquo;t have to move it forward a week.</description>
+    </item>
+    
+    <item>
+      <title>Customer Loyalty</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-10-03-customer-loyalty/</link>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-10-03-customer-loyalty/</guid>
+      <description>I got an email from BT who provide my phone and internet about renewing my contract. Now currently my phone isn&amp;apos;t even plugged in, but that&amp;apos;s another story, so I don&amp;apos;t really like having to pay line rental as it is but it seems to be perfectly legal for companies to bundle this in as a requirement. They were asking if I wanted to renew my contract with them, with what initially seemed a worse deal for the same price.</description>
+    </item>
+    
+    <item>
+      <title>Spanking is ok</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-10-02-spanking-headline/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-10-02-spanking-headline/</guid>
+      <description>The writer of this headline is either very naive or acutely aware. I&amp;apos;m not entirely sure&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Garden Upgrade</title>
+      <link>http://www.lukebrunning.co.uk/blog/2014-06-28-garden/</link>
+      <pubDate>Sat, 28 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lukebrunning.co.uk/blog/2014-06-28-garden/</guid>
+      <description>I am looking to upgrade my garden as it is currently in rather a sorry state, as evidenced below (click on the picture for a larger view);
+
+The decking is rotting and is totally impractical in winter. The area above which is decked is to be replaced by Areas A, B and C shown below (click on the picture for a larger view);
+
+ Area A is a small decking area in Thermowood Area B is artifical grass; A Touch of Grass&amp;apos;s &amp;lsquo;El Classico&amp;rsquo; Area C is paved in Indian Stone  The area at the front is out of scope for this project but I will ultimately get this paved in Indian Stone as well.</description>
+    </item>
+    
+  </channel>
+</rss>
