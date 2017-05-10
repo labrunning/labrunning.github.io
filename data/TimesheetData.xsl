@@ -11,7 +11,7 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<script type="text/javascript" language="javascript" src="../Shared%20Documents/Saxonce/Saxonce.nocache.js"></script>
+				<script type="text/javascript" language="javascript" src="../js/Saxonce/Saxonce.nocache.js"></script>
 			</head>
 			<body>
 				<h3>Luke Brunning Timesheet Data</h3>
