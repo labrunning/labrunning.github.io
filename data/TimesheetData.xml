@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?xml-stylesheet type="text/xsl" href="TimesheetData.xsl"?>
 <times>
 	<time>
 		<LeaveRemaining>P17D</LeaveRemaining>
-		<LeaveCurrentFlexi>PT0H50M</LeaveCurrentFlexi>
+		<LeaveCurrentFlexi>PT5H37M</LeaveCurrentFlexi>
 		<TimeAverageStart>PT8H22M</TimeAverageStart>
 		<TimeAverageEnd>PT16H30M</TimeAverageEnd>
 		<TimeAverageDay>PT7H40M</TimeAverageDay>
