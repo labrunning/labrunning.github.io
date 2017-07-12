@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.lukebrunning.co.uk/blog/2017-07-11-ed-hotas/</loc>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.lukebrunning.co.uk/blog/2017-06-19-ps4-patch/</loc>
     <lastmod>2017-06-19T00:00:00+00:00</lastmod>
   </url>
@@ -78,7 +83,7 @@
   
   <url>
     <loc>http://www.lukebrunning.co.uk/blog/</loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,7 +112,7 @@
   
   <url>
     <loc>http://www.lukebrunning.co.uk/categories/games/</loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -125,7 +130,7 @@
   
   <url>
     <loc>http://www.lukebrunning.co.uk/</loc>
-    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
